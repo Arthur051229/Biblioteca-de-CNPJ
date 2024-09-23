@@ -1,0 +1,27 @@
+# Ignorar diretórios e arquivos binários
+bin/
+obj/
+*.exe
+*.dll
+
+# Ignorar arquivos de usuário do Visual Studio
+.vs/
+*.user
+*.suo
+*.csproj.user
+*.vcxproj.user
+
+# Ignorar configurações temporárias
+*.tmp
+*.log
+
+# Ignorar pacotes do NuGet restaurados
+packages/
+
+# Ignorar arquivos de build gerados
+*.o
+*.a
+*.lib
+
+# Ignorar o diretório de publicação
+publish/
