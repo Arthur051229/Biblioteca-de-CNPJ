@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Biblioteca_de_CNPJ
+namespace BibliotecaDeCNPJ
 {
     public class CadastroEmpresas
     {
