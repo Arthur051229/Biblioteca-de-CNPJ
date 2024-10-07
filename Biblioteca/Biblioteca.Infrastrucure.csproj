@@ -15,7 +15,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BibliotecaCnpj.API\BibliotecaCnpj.API.csproj" />
+    <ProjectReference Include="..\BibliotecaCnpj.API\Biblioteca.API.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Migration\" />
   </ItemGroup>
 
 </Project>

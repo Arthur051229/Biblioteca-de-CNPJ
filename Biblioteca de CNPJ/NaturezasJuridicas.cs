@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Biblioteca_de_CNPJ
 {
-    public class NaturezasJurídicas
+    public class NaturezasJuridicas
     {
         [MaxLength(45, ErrorMessage = "Código da natureza jurídica suporta no máximo 40 caracteres")]
 

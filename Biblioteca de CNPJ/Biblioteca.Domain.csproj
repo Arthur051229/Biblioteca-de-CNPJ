@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BibliotecaCnpj.API\BibliotecaCnpj.API.csproj" />
+    <ProjectReference Include="..\BibliotecaCnpj.API\Biblioteca.API.csproj" />
     <ProjectReference Include="..\Biblioteca\Biblioteca.Infrastrucure.csproj" />
   </ItemGroup>
 

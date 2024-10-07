@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Biblioteca_de_CNPJ
 {
-    public class Países
+    public class Paises
     {
         [MaxLength(45, ErrorMessage = "Código do País no máximo 30 caracteres")]
 

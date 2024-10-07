@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Biblioteca_de_CNPJ
 {
-    public class Municípios
+    public class Municipios
     {
         [MaxLength(45, ErrorMessage = "Código do Município suporta no máximo 50 caracteres")]
 

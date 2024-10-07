@@ -7,6 +7,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Biblioteca.Infrastructure.Repositories
 {
     public class CNAEsRepository : ICNAEsRepository
